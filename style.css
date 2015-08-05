@@ -27,6 +27,7 @@ header {
 
 main {
     background: white;
+    border-bottom: 250px;
 }
 
 .tabs a span {
