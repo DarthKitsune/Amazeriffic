@@ -12,3 +12,12 @@ header {
 main {
     margin: 20px;
 }
+
+
+.comments p:nth-child(even) {
+    background: lavender;
+}
+
+.comments p:nth-child(odd){
+    background: gainsboro;
+}
