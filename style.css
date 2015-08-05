@@ -14,3 +14,16 @@ p {
     border: 1px solid gray;
     padding: 10px;
 }
+
+header, main, footer {
+    min-width: 855px;
+
+}
+
+header {
+    background: white;
+}
+
+main {
+    background: white;
+}
